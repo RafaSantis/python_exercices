@@ -1,0 +1,3 @@
+In python i'm learning about archives and exepctions, such as paths and some commands
+In python i already learned about int, float, string
+In python we can save alot of names in one variable using list or tuple
